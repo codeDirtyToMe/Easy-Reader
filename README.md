@@ -1,1 +1,1 @@
-# Easy-Reader
+# Easy-Reader is a python script I made to help get through a mountain of reading in a shorter amount of time. Basically, a text file is made into a list that is then loaded into a loop. Each word is presented on screen for a brief amount of time. This creates a more efficient reading environment.
